@@ -8,9 +8,14 @@ class categoriesController extends controller {
     }
 
     public function index() {
-        /*$dados = array();
+       header("Location: ".BASE_URL);
+    }
+    public function enter($id){
+    	$dados = array();
         $products = new Products();
-        $categories = new Categories();
+    	$categories = new Categories();
+        $dados['category_name'] = $categories->getCategoryName($id);
+        if(!empty($dados['category_name'])){
         $currentPage = 1;
         $offset = 0;
         $limit = 3;
@@ -18,20 +23,18 @@ class categoriesController extends controller {
             $currentPage = $_GET['p'];
         }
         $offset = ($currentPage * $limit) - $limit;
-        $dados['list'] = $products->getList($offset, $limit); 
-        $dados['totalItems'] = $products->getTotal();
-        $dados['numberOfPages'] = ceil($dados['totalItems']/$limit);
-        $dados['currentPage'] = $currentPage;
-        $dados['categories'] = $categories->getList();
-        $this->loadTemplate('home', $dados);*/
-    }
-    public function enter($id){
-    	$dados = array();
-    	$categories = new Categories();
+        $filters = array('category'=> $id);
     	$dados['category_filter'] = $categories->getCategoryTree($id);
-    	$dados['category_name'] = $categories->getCategoryName($id);
+        $dados['list'] = $products->getList($offset, $limit, $filters);
+        $dados['totalItems'] = $products->getTotal($filters);
+        $dados['numberOfPages'] = ceil($dados['totalItems']/$limit); 
+         $dados['currentPage'] = $currentPage;
+         $dados['id_category'] = $id;
     	$dados['categories'] = $categories->getList();
     	$this->loadTemplate('categories', $dados);
+        }else{
+            header("Location: ".BASE_URL);
+        }
     }
 
 }
