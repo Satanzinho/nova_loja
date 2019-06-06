@@ -106,9 +106,45 @@
 				  	<aside>
 				  		<h1><?php $this->lang->get('FILTER'); ?></h1>
 				  		<div class="filterarea">
-
+				  			<div class="filterbox">
+				  				<div class="filtertitle"><?php $this->lang->get('BRANDS'); ?></div>
+				  				<div class="filtercontent">
+				  					...
+				  				</div>
+				  			</div>
 				  		</div>
-
+				  		<div class="filterarea">
+				  			<div class="filterbox">
+				  				<div class="filtertitle"><?php $this->lang->get('PRICE'); ?></div>
+				  				<div class="filtercontent">
+				  					...
+				  				</div>
+				  			</div>
+				  		</div>
+				  		<div class="filterarea">
+				  			<div class="filterbox">
+				  				<div class="filtertitle"><?php $this->lang->get('RATING'); ?></div>
+				  				<div class="filtercontent">
+				  					...
+				  				</div>
+				  			</div>
+				  		</div>
+				  		<div class="filterarea">
+				  			<div class="filterbox">
+				  				<div class="filtertitle"><?php $this->lang->get('SALE'); ?></div>
+				  				<div class="filtercontent">
+				  					...
+				  				</div>
+				  			</div>
+				  		</div>
+				  		<div class="filterarea">
+				  			<div class="filterbox">
+				  				<div class="filtertitle"><?php $this->lang->get('OPTIONS'); ?></div>
+				  				<div class="filtercontent">
+				  					...
+				  				</div>
+				  			</div>
+				  		</div>
 				  		<div class="widget">
 				  			<h1><?php $this->lang->get('FEATUREDPRODUCTS'); ?></h1>
 				  			<div class="widget_body">
