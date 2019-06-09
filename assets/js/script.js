@@ -3,7 +3,7 @@
       range: true,
       min: 0,
       max: maxslider,
-      values: [ 0, maxslider ],
+      values: slidervalues,
       slide: function( event, ui ) {
         $( "#amount" ).val( "R$" + ui.values[ 0 ] + " - R$" + ui.values[ 1 ] );
       }

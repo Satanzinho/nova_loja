@@ -19,7 +19,7 @@ class Filters extends Model{
 		);
 		//Filtro de marcas
 		$array['brands'] = $brands->getList();
-		$brand_products = $products->getListOfBrands();
+		$brand_products = $products->getListOfBrands($filters);
 		//Caso queira entender a fundo, volte na aula "Implementação do filtro (2/5)"
 		foreach($array['brands'] as $bkey => $bitem){
 			$array['brands'][$bkey]['count'] = '0';
