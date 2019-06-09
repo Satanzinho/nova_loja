@@ -3,9 +3,13 @@
       range: true,
       min: 0,
       max: maxslider,
-      values: slidervalues,
+      values: [$('#slider0').val(), $('#slider1').val()],
       slide: function( event, ui ) {
         $( "#amount" ).val( "R$" + ui.values[ 0 ] + " - R$" + ui.values[ 1 ] );
+      },
+      change: function( event, ui ){
+        $('#slider'+ui.handleIndex).val(ui.value);
+        $('.filterarea form').submit();
       }
     });
 
