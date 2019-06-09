@@ -14,6 +14,7 @@ class categoriesController extends controller {
     	$dados = array();
         $products = new Products();
     	$categories = new Categories();
+        $f = new Filters();
         $dados['category_name'] = $categories->getCategoryName($id);
         if(!empty($dados['category_name'])){
         $currentPage = 1;
@@ -28,8 +29,9 @@ class categoriesController extends controller {
         $dados['list'] = $products->getList($offset, $limit, $filters);
         $dados['totalItems'] = $products->getTotal($filters);
         $dados['numberOfPages'] = ceil($dados['totalItems']/$limit); 
-         $dados['currentPage'] = $currentPage;
-         $dados['id_category'] = $id;
+        $dados['currentPage'] = $currentPage;
+        $dados['id_category'] = $id;
+        $dados['filters'] = $f->getFilters($filters);
     	$dados['categories'] = $categories->getList();
     	$this->loadTemplate('categories', $dados);
         }else{

@@ -1,5 +1,14 @@
 <?php
 class Brands extends Model {
+	public function getList(){
+		$array = array();
+		$sql = "SELECT * FROM brands";
+		$sql = $this->db->query($sql);
+		if($sql->rowCount() > 0){
+			$array = $sql->fetchAll();
+		}
+		return $array;
+	}
 	public function getNameById($id){
 		$sql = "SELECT name FROM brands WHERE id = :id";
 		$sql = $this->db->prepare($sql);
