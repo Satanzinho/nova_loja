@@ -90,11 +90,20 @@ class Products extends Model {
 		}
 		return $array;
 	}
-	public function getList($offset = 0, $limit = 3, $filters = array()){
+	public function getList($offset = 0, $limit = 3, $filters = array(), $random = false){
 		$array = array();
+		$orderBySQL = '';
+		if($random == true){
+			$orderBySQL = "ORDER BY RAND()";
+		}
+		if(!empty($filters['toprated'])){
+			$orderBySQL = "ORDER BY rating DESC";
+		}
 		$where = $this->buildWhere($filters);
 		//entenda melhor subcares na aula "Criando a home 1"
-		$sql = "SELECT *, (select brands.name from brands where brands.id = products.id_brand) as brand_name, (select categories.name from categories where id = products.id_category) as category_name FROM products WHERE ".implode(' AND ', $where)." LIMIT $offset, $limit";
+		$sql = "SELECT *, (select brands.name from brands where brands.id = products.id_brand) as brand_name, (select categories.name from categories where id = products.id_category) as category_name FROM products WHERE ".implode(' AND ', $where)." 
+		".$orderBySQL."
+		LIMIT $offset, $limit";
 		$sql = $this->db->prepare($sql);
 		$this->bindWhere($filters, $sql);
 		$sql->execute();
@@ -141,6 +150,9 @@ class Products extends Model {
 		}
 		if(!empty($filters['sale'])){
 			$where[] = "sale = '1'";
+		}
+		if(!empty($filters['featured'])){
+			$where[] = "featured = '1'";
 		}
 		if(!empty($filters['options'])){
 			$where[] = "id IN (select id_product from products_options where products_options.p_value IN ('".implode("','", $filters['options'])."'))";
