@@ -8,19 +8,31 @@ class productController extends controller {
     }
 
     public function index() {
+        header("Location: ".BASE_URL);
     }
     public function open($id){
-    	 $dados = array();
+    	$store = new Store();
 
         $products = new Products();
         $categories = new Categories();
         $f = new Filters();
-        $filters = array();
 
-        $dados['categories'] = $categories->getList();
+        $dados = $store->getTemplateData();
+
+        $filters = array();
+        $info = $products->getProductInfo($id);
+        if(count($info) > 0){
+        $dados['product_info'] = $info;
+        $dados['product_images'] = $products->getImagesByProductId($id);
+        $dados['product_options'] = $products->getOptionsByProductId($id);
+        $dados['product_rates'] = $products->getRates($id, 5);
+
         $dados['filters'] = $f->getFilters($filters);
         $dados['filters_selected'] = array();
 
         $this->loadTemplate('product', $dados);
+        }else{
+            header("Location: ".BASE_URL);
         }
+    }
     }
