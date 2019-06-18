@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: 04-Jun-2019 às 00:47
+-- Generation Time: 17-Jun-2019 às 21:49
 -- Versão do servidor: 5.6.17
 -- PHP Version: 5.5.12
 
@@ -30,7 +30,7 @@ CREATE TABLE IF NOT EXISTS `brands` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `name` varchar(100) NOT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=4 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=5 ;
 
 --
 -- Extraindo dados da tabela `brands`
@@ -39,7 +39,8 @@ CREATE TABLE IF NOT EXISTS `brands` (
 INSERT INTO `brands` (`id`, `name`) VALUES
 (1, 'LG'),
 (2, 'Samsung'),
-(3, 'AOC');
+(3, 'AOC'),
+(4, 'Apple');
 
 -- --------------------------------------------------------
 
@@ -90,7 +91,17 @@ CREATE TABLE IF NOT EXISTS `options` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `name` varchar(100) NOT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 AUTO_INCREMENT=1 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=5 ;
+
+--
+-- Extraindo dados da tabela `options`
+--
+
+INSERT INTO `options` (`id`, `name`) VALUES
+(1, 'Cor'),
+(2, 'Tamanho'),
+(3, 'Memória RAM'),
+(4, 'Polegadas');
 
 -- --------------------------------------------------------
 
@@ -126,6 +137,11 @@ CREATE TABLE IF NOT EXISTS `products` (
   `bestseller` tinyint(1) NOT NULL,
   `new_product` tinyint(1) NOT NULL,
   `options` varchar(200) DEFAULT NULL,
+  `weight` float NOT NULL,
+  `width` float NOT NULL,
+  `height` float NOT NULL,
+  `length` float NOT NULL,
+  `diameter` float NOT NULL,
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=10 ;
 
@@ -133,15 +149,15 @@ CREATE TABLE IF NOT EXISTS `products` (
 -- Extraindo dados da tabela `products`
 --
 
-INSERT INTO `products` (`id`, `id_category`, `id_brand`, `name`, `description`, `stock`, `price`, `price_from`, `rating`, `featured`, `sale`, `bestseller`, `new_product`, `options`) VALUES
-(1, 1, 1, 'Monitor 21 polegadas', 'Alguma descrição do produto', 10, 499, 599, 0, 0, 1, 1, 0, NULL),
-(3, 1, 2, 'Monitor 18 polegadas', 'Alguma outra descrição', 10, 399, 999, 0, 0, 0, 1, 0, NULL),
-(4, 1, 2, 'Monitor legal polegads 18', 'Descrição legal', 10, 799, 800, 0, 0, 0, 0, 0, NULL),
-(5, 1, 3, 'Monito Teste, 40 polegadas', 'Monitor Grande', 10, 1100, 2000, 0, 0, 0, 0, 1, NULL),
-(6, 1, 1, 'Monitor 45 polegadas', 'Monitor Grande', 10, 1500, 2100, 0, 0, 0, 0, 0, NULL),
-(7, 1, 2, 'Monitor 21', 'Isso', 10, 500, 600, 0, 0, 0, 0, 0, NULL),
-(8, 1, 2, 'Monitor monitor', 'monitor monitor', 10, 200, 300, 0, 0, 0, 0, 0, NULL),
-(9, 1, 1, 'Monitor AAA', 'isso', 10, 500, 500, 0, 0, 0, 0, 0, NULL);
+INSERT INTO `products` (`id`, `id_category`, `id_brand`, `name`, `description`, `stock`, `price`, `price_from`, `rating`, `featured`, `sale`, `bestseller`, `new_product`, `options`, `weight`, `width`, `height`, `length`, `diameter`) VALUES
+(1, 1, 1, 'Monitor 21 polegadas', 'Alguma descrição do produto', 10, 499, 599, 0, 0, 1, 1, 0, '1,2,4', 0.9, 20, 15, 20, 15),
+(3, 1, 2, 'Monitor 18 polegadas', 'Alguma outra descrição', 10, 399, 999, 2, 0, 0, 1, 0, '2,4', 0.9, 20, 15, 20, 15),
+(4, 1, 2, 'Monitor legal polegads 18', 'Descrição legal', 10, 799, 800, 0, 0, 0, 0, 0, '2', 0.9, 20, 15, 20, 15),
+(5, 1, 3, 'Monito Teste, 40 polegadas', 'Monitor Grande', 10, 1100, 2000, 0, 0, 0, 0, 1, '1,2', 0.9, 20, 15, 20, 15),
+(6, 1, 1, 'Monitor 45 polegadas', 'Monitor Grande', 10, 1500, 2100, 0, 0, 0, 0, 0, '1,4', 0.9, 20, 15, 20, 15),
+(7, 1, 2, 'Monitor 21', 'Isso', 10, 500, 600, 5, 0, 0, 0, 0, '4', 0.9, 20, 15, 20, 15),
+(8, 1, 2, 'Monitor monitor', 'monitor monitor', 10, 200, 300, 0, 0, 0, 0, 0, '1,2,4', 0.9, 20, 15, 20, 15),
+(9, 1, 1, 'Monitor AAA', 'isso', 10, 500, 500, 0, 0, 0, 0, 0, '3', 0.9, 20, 15, 20, 15);
 
 -- --------------------------------------------------------
 
@@ -154,7 +170,7 @@ CREATE TABLE IF NOT EXISTS `products_images` (
   `id_product` int(11) NOT NULL,
   `url` varchar(50) NOT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=9 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=11 ;
 
 --
 -- Extraindo dados da tabela `products_images`
@@ -168,7 +184,9 @@ INSERT INTO `products_images` (`id`, `id_product`, `url`) VALUES
 (5, 6, '1.jpg'),
 (6, 7, '2.jpg'),
 (7, 8, '7.jpg'),
-(8, 9, '4.jpg');
+(8, 9, '4.jpg'),
+(9, 3, '4.jpg'),
+(10, 3, '7.jpg');
 
 -- --------------------------------------------------------
 
@@ -182,7 +200,18 @@ CREATE TABLE IF NOT EXISTS `products_options` (
   `id_option` int(11) NOT NULL,
   `p_value` varchar(100) NOT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 AUTO_INCREMENT=1 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=6 ;
+
+--
+-- Extraindo dados da tabela `products_options`
+--
+
+INSERT INTO `products_options` (`id`, `id_product`, `id_option`, `p_value`) VALUES
+(1, 1, 1, 'Azul'),
+(2, 1, 2, '23cm'),
+(3, 1, 4, '21'),
+(4, 3, 2, '40cm'),
+(5, 3, 4, '50');
 
 -- --------------------------------------------------------
 
@@ -242,7 +271,15 @@ CREATE TABLE IF NOT EXISTS `rates` (
   `points` int(11) NOT NULL,
   `comment` text,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 AUTO_INCREMENT=1 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=3 ;
+
+--
+-- Extraindo dados da tabela `rates`
+--
+
+INSERT INTO `rates` (`id`, `id_product`, `id_user`, `date_rated`, `points`, `comment`) VALUES
+(1, 3, 1, '2019-06-14 00:00:00', 2, 'Produto legal, gostei mesmo, RECOMENDO!!'),
+(2, 3, 1, '2019-06-11 00:00:00', 2, 'Não gostei mas gostei, sla, estou idenciso!!');
 
 -- --------------------------------------------------------
 
@@ -254,8 +291,16 @@ CREATE TABLE IF NOT EXISTS `users` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `email` varchar(100) NOT NULL,
   `password` varchar(32) NOT NULL,
+  `name` varchar(100) NOT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 AUTO_INCREMENT=1 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=2 ;
+
+--
+-- Extraindo dados da tabela `users`
+--
+
+INSERT INTO `users` (`id`, `email`, `password`, `name`) VALUES
+(1, 'teste@gmail.com', 'e8d95a51f3af4a3b134bf6bb680a213a', 'Jorge Luiz Valente');
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
