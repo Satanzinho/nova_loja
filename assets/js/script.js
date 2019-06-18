@@ -1,4 +1,5 @@
  $( function() {
+  if(typeof maxslider != 'undefined'){
     $( "#slider-range" ).slider({
       range: true,
       min: 0,
@@ -12,7 +13,7 @@
         $('.filterarea form').submit();
       }
     });
-
+}
     $( "#amount" ).val( "R$" + $( "#slider-range" ).slider( "values", 0 ) +
       " - R$" + $( "#slider-range" ).slider( "values", 1 ) );
 
@@ -34,6 +35,7 @@
         qt = qt + 1;
       }
       $('.addtocart_qt').val(qt);
+      $('input[name=qt_product]').val(qt);
     });
     $('.photo_item').on('click', function(){
       var url = $(this).find('img').attr('src');

@@ -68,11 +68,11 @@
 						<a href="<?php echo BASE_URL; ?>cart">
 							<div class="cartarea">
 								<div class="carticon">
-									<div class="cartqt">9</div>
+									<div class="cartqt"><?php echo $viewData['cart_qt']; ?></div>
 								</div>
 								<div class="carttotal">
 									<?php $this->lang->get('CART'); ?>:<br/>
-									<span>R$ 999,99</span>
+									<span>R$ <?php echo number_format($viewData['cart_subtotal'], 2, ',', '.'); ?></span>
 								</div>
 							</div>
 						</a>
@@ -235,7 +235,9 @@
 	    	</div>
 	    </footer>
 		<script type="text/javascript">var BASE_URL = '<?php echo BASE_URL; ?>';
+		<?php if(isset($viewData['filters'])): ?>
 		var maxslider = <?php echo $viewData['filters']['maxSlider']; ?>;
+		<?php endif; ?>
 		</script>
 		<script type="text/javascript" src="<?php echo BASE_URL; ?>assets/js/jquery.min.js"></script>
 		<script type="text/javascript" src="<?php echo BASE_URL; ?>assets/js/jquery-ui.min.js"></script>
