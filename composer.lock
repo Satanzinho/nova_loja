@@ -1,0 +1,192 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "c72fa63ac26a33062d1c0d9d1ce6c06f",
+    "packages": [
+        {
+            "name": "mercadopago/sdk",
+            "version": "v0.5.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/mercadopago/sdk-php.git",
+                "reference": "88fd10a084f750c3e48b417a53c26260c11c2bb9"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/mercadopago/sdk-php/zipball/88fd10a084f750c3e48b417a53c26260c11c2bb9",
+                "reference": "88fd10a084f750c3e48b417a53c26260c11c2bb9",
+                "shasum": ""
+            },
+            "require": {
+                "ext-curl": "*"
+            },
+            "type": "library",
+            "autoload": {
+                "classmap": [
+                    "lib/mercadopago.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "authors": [
+                {
+                    "name": "Horacio Casatti",
+                    "email": "horacio.casatti@mercadolibre.com"
+                }
+            ],
+            "description": "MercadoPago SDK module for Payments integration.",
+            "keywords": [
+                "mercadopago",
+                "sdk"
+            ],
+            "time": "2015-10-14T13:49:16+00:00"
+        },
+        {
+            "name": "pagseguro/pagseguro-php-sdk",
+            "version": "4.2.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/pagseguro/pagseguro-php-sdk.git",
+                "reference": "3e164aff66fa089eb79a80ce6b7413fe36aa9b95"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/pagseguro/pagseguro-php-sdk/zipball/3e164aff66fa089eb79a80ce6b7413fe36aa9b95",
+                "reference": "3e164aff66fa089eb79a80ce6b7413fe36aa9b95",
+                "shasum": ""
+            },
+            "require": {
+                "ext-curl": "*",
+                "lib-curl": "*",
+                "lib-openssl": "*",
+                "php": ">=5.4.27"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^4.8"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "PagSeguro\\": "source/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "Apache-2.0"
+            ],
+            "authors": [
+                {
+                    "name": "PagSeguro"
+                }
+            ],
+            "description": "Biblioteca de integração com o PagSeguro",
+            "time": "2018-08-17T12:30:18+00:00"
+        },
+        {
+            "name": "paypal/rest-api-sdk-php",
+            "version": "1.14.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/paypal/PayPal-PHP-SDK.git",
+                "reference": "72e2f2466975bf128a31e02b15110180f059fc04"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/paypal/PayPal-PHP-SDK/zipball/72e2f2466975bf128a31e02b15110180f059fc04",
+                "reference": "72e2f2466975bf128a31e02b15110180f059fc04",
+                "shasum": ""
+            },
+            "require": {
+                "ext-curl": "*",
+                "ext-json": "*",
+                "php": ">=5.3.0",
+                "psr/log": "^1.0.0"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^4.8.35"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "PayPal": "lib/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "Apache-2.0"
+            ],
+            "authors": [
+                {
+                    "name": "PayPal",
+                    "homepage": "https://github.com/paypal/rest-api-sdk-php/contributors"
+                }
+            ],
+            "description": "PayPal's PHP SDK for REST APIs",
+            "homepage": "http://paypal.github.io/PayPal-PHP-SDK/",
+            "keywords": [
+                "payments",
+                "paypal",
+                "rest",
+                "sdk"
+            ],
+            "time": "2019-01-04T20:04:25+00:00"
+        },
+        {
+            "name": "psr/log",
+            "version": "1.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/php-fig/log.git",
+                "reference": "6c001f1daafa3a3ac1d8ff69ee4db8e799a654dd"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/php-fig/log/zipball/6c001f1daafa3a3ac1d8ff69ee4db8e799a654dd",
+                "reference": "6c001f1daafa3a3ac1d8ff69ee4db8e799a654dd",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.0"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "1.0.x-dev"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Psr\\Log\\": "Psr/Log/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "PHP-FIG",
+                    "homepage": "http://www.php-fig.org/"
+                }
+            ],
+            "description": "Common interface for logging libraries",
+            "homepage": "https://github.com/php-fig/log",
+            "keywords": [
+                "log",
+                "psr",
+                "psr-3"
+            ],
+            "time": "2018-11-20T15:27:04+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

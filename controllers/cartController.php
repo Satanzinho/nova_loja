@@ -17,6 +17,12 @@ class cartController extends controller {
         if(!empty($_POST['cep'])){
             $cep = intval($_POST['cep']);
             $shipping = $cart->shippingCalculate($cep);
+
+            $_SESSION['shipping'] = $shipping;
+        }
+
+        if(!empty($_SESSION['shipping'])){
+            $shipping = $_SESSION['shipping'];
         }
 
         if(!isset($_SESSION['cart']) || (isset($_SESSION['cart']) && count($_SESSION['cart']) == 0)){
@@ -59,4 +65,28 @@ class cartController extends controller {
         exit;
     }
 
+
+    public function payment_redirect(){
+        if(!empty($_POST['payment_type'])){
+            $payment_type = $_POST['payment_type'];
+            switch($payment_type){
+                case 'checkout_transparente':
+                    header("Location: ".BASE_URL."psckttransparente");
+                    exit;
+                break;
+                case 'mp':
+                    header("Location: ".BASE_URL."mp");
+                    exit;
+                break;
+                case 'paypal':
+                    header("Location: ".BASE_URL."paypal");
+                    exit;
+                break;
+            }
+
+        }else{
+            header("Location: ".BASE_URL."cart");
+            exit;
+        }
+    }
 }

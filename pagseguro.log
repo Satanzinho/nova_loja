@@ -1,0 +1,525 @@
+
+19/06/2019 00:20:59 PagSeguro.Session[info]: Begin
+19/06/2019 00:21:00 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=token
+19/06/2019 00:21:01 PagSeguro.Session[error]: Unauthorized
+19/06/2019 03:22:45 PagSeguro.Session[info]: Begin
+19/06/2019 03:22:45 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+19/06/2019 03:22:46 PagSeguro.Session[info]: Session ID: c56ff5dd9c2545728cc264d6e32f6c83
+19/06/2019 03:27:59 PagSeguro.Session[info]: Begin
+19/06/2019 03:28:00 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+19/06/2019 03:28:01 PagSeguro.Session[info]: Session ID: 4017b69372564d07a5120da35ac86303
+19/06/2019 03:28:43 PagSeguro.Session[info]: Begin
+19/06/2019 03:28:43 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+19/06/2019 03:28:43 PagSeguro.Session[info]: Session ID: 632532b48b934074a3dd6a533bc6c445
+19/06/2019 03:29:36 PagSeguro.Session[info]: Begin
+19/06/2019 03:29:37 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+19/06/2019 03:29:38 PagSeguro.Session[info]: Session ID: 2c49f2b0f3bf4144b6079b3d9753dbd8
+19/06/2019 03:34:25 PagSeguro.Session[info]: Begin
+19/06/2019 03:34:26 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+19/06/2019 03:34:26 PagSeguro.Session[info]: Session ID: 52110f959b4341f698b055f42de8cbda
+19/06/2019 03:40:34 PagSeguro.Session[info]: Begin
+19/06/2019 03:40:35 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+19/06/2019 03:40:35 PagSeguro.Session[info]: Session ID: b7359661b42040c8806a4e549f961eda
+19/06/2019 03:41:39 PagSeguro.Session[info]: Begin
+19/06/2019 03:41:40 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+19/06/2019 03:41:40 PagSeguro.Session[info]: Session ID: 4489b041e97c487c9e0b1c76c29af609
+19/06/2019 03:43:47 PagSeguro.Session[info]: Begin
+19/06/2019 03:43:48 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+19/06/2019 03:43:48 PagSeguro.Session[info]: Session ID: 5c0d646d5ce24299bcef10d9831d9a86
+19/06/2019 03:47:01 PagSeguro.Session[info]: Begin
+19/06/2019 03:47:01 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+19/06/2019 03:47:03 PagSeguro.Session[info]: Session ID: d949635f18ed4bd6b6ed53909e3b699b
+19/06/2019 03:48:45 PagSeguro.Session[info]: Begin
+19/06/2019 03:48:46 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+19/06/2019 03:48:46 PagSeguro.Session[info]: Session ID: 1ac5f146ba6a4201afb20cda82ee876d
+19/06/2019 03:50:31 PagSeguro.Session[info]: Begin
+19/06/2019 03:50:31 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+19/06/2019 03:50:32 PagSeguro.Session[info]: Session ID: f539ee9cc9764cddafc2fcd15a3a5871
+19/06/2019 03:51:54 PagSeguro.Session[info]: Begin
+19/06/2019 03:51:55 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+19/06/2019 03:51:56 PagSeguro.Session[info]: Session ID: b7232d6c42eb4648a19d416fe73a375b
+19/06/2019 03:52:11 PagSeguro.Session[info]: Begin
+19/06/2019 03:52:12 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+19/06/2019 03:52:13 PagSeguro.Session[info]: Session ID: e07599b4434746deb99dba3438ff94db
+19/06/2019 04:00:25 PagSeguro.Session[info]: Begin
+19/06/2019 04:00:26 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+19/06/2019 04:00:27 PagSeguro.Session[info]: Session ID: 84dfd94680c84835998294b9ee2a9d88
+19/06/2019 04:00:52 PagSeguro.Session[info]: Begin
+19/06/2019 04:00:53 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+19/06/2019 04:00:53 PagSeguro.Session[info]: Session ID: a559c1beb5b444ddbf582bd41417dd56
+19/06/2019 04:02:13 PagSeguro.Session[info]: Begin
+19/06/2019 04:02:14 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+19/06/2019 04:02:15 PagSeguro.Session[info]: Session ID: e4c50ade9b0b4981b56db02debba3d4c
+19/06/2019 04:03:41 PagSeguro.Session[info]: Begin
+19/06/2019 04:03:42 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+19/06/2019 04:03:42 PagSeguro.Session[info]: Session ID: 1d791214c4574b008461033cb2b9c1ae
+19/06/2019 04:07:47 PagSeguro.Session[info]: Begin
+19/06/2019 04:07:48 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+19/06/2019 04:07:49 PagSeguro.Session[info]: Session ID: 83b354fee65b4e03831bcb5a34a9256c
+19/06/2019 04:09:12 PagSeguro.Session[info]: Begin
+19/06/2019 04:09:12 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+19/06/2019 04:09:13 PagSeguro.Session[info]: Session ID: 7761ae7189a441b0bf618dc88afaa277
+19/06/2019 04:10:48 PagSeguro.Session[info]: Begin
+19/06/2019 04:10:48 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+19/06/2019 04:10:49 PagSeguro.Session[info]: Session ID: 34b568cd077e48669133c71cc383eb50
+19/06/2019 04:11:00 PagSeguro.Session[info]: Begin
+19/06/2019 04:11:00 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+19/06/2019 04:11:01 PagSeguro.Session[info]: Session ID: 987903b252e1467797592f3cee4f1936
+19/06/2019 04:11:45 PagSeguro.Session[info]: Begin
+19/06/2019 04:11:46 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+19/06/2019 04:11:46 PagSeguro.Session[info]: Session ID: 4db3897da0ff4ac389dafd24ff3b762e
+19/06/2019 04:12:33 PagSeguro.Session[info]: Begin
+19/06/2019 04:12:34 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+19/06/2019 04:12:35 PagSeguro.Session[info]: Session ID: df73f997fa994b3d8f681067a2154798
+19/06/2019 04:12:40 PagSeguro.Session[info]: Begin
+19/06/2019 04:12:40 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+19/06/2019 04:12:41 PagSeguro.Session[info]: Session ID: 8c6d1ea95c184351a7e8f8879f8e718a
+19/06/2019 04:14:04 PagSeguro.Session[info]: Begin
+19/06/2019 04:14:05 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+19/06/2019 04:14:05 PagSeguro.Session[info]: Session ID: 731fffeba74a4c0692a16b79eb6df920
+19/06/2019 04:15:42 PagSeguro.Session[info]: Begin
+19/06/2019 04:15:43 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+19/06/2019 04:15:43 PagSeguro.Session[info]: Session ID: fb612f331c224022a367203e35628bb5
+19/06/2019 04:18:11 PagSeguro.Session[info]: Begin
+19/06/2019 04:18:11 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+19/06/2019 04:18:12 PagSeguro.Session[info]: Session ID: 62f92c4083ce4ad496b3d820a879befe
+19/06/2019 04:18:45 PagSeguro.Session[info]: Begin
+19/06/2019 04:18:46 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+19/06/2019 04:18:46 PagSeguro.Session[info]: Session ID: ee370243b9b44811a64df058fb54e6a4
+19/06/2019 04:19:48 PagSeguro.Session[info]: Begin
+19/06/2019 04:19:49 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+19/06/2019 04:19:49 PagSeguro.Session[info]: Session ID: b60dc8a901584dc5b41f220160b26de2
+19/06/2019 04:22:56 PagSeguro.Session[info]: Begin
+19/06/2019 04:22:56 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+19/06/2019 04:22:58 PagSeguro.Session[info]: Session ID: b0738f9d921f422ab8adfa394010a491
+19/06/2019 04:23:52 PagSeguro.Session[info]: Begin
+19/06/2019 04:23:53 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+19/06/2019 04:23:53 PagSeguro.Session[info]: Session ID: 68e557f1fcb944c083e2ce4217876726
+19/06/2019 04:26:10 PagSeguro.Session[info]: Begin
+19/06/2019 04:26:11 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+19/06/2019 04:26:13 PagSeguro.Session[info]: Session ID: 7105ef4a27a04ec09d17761a5ddc032e
+20/06/2019 19:11:26 PagSeguro.Session[info]: Begin
+20/06/2019 19:11:28 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 19:11:30 PagSeguro.Session[info]: Session ID: a1fbf7279c7e4e498bb4cf264da4c5cd
+20/06/2019 19:24:33 PagSeguro.Session[info]: Begin
+20/06/2019 19:24:34 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 19:24:35 PagSeguro.Session[info]: Session ID: 89ff7a6861d84a8f8017774abb567799
+20/06/2019 20:29:18 PagSeguro.Session[info]: Begin
+20/06/2019 20:29:19 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 20:29:20 PagSeguro.Session[info]: Session ID: a6dd624e71cb46638f3d4dee7942f74f
+20/06/2019 20:29:39 PagSeguro.Session[info]: Begin
+20/06/2019 20:29:39 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 20:29:39 PagSeguro.Session[info]: Session ID: ae65f5a438504ba6a9061e427276f1cf
+20/06/2019 20:30:26 PagSeguro.Session[info]: Begin
+20/06/2019 20:30:26 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 20:30:26 PagSeguro.Session[info]: Session ID: f661ef959fc849c0984de9d6fac4b185
+20/06/2019 20:32:07 PagSeguro.Session[info]: Begin
+20/06/2019 20:32:08 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 20:32:08 PagSeguro.Session[info]: Session ID: f339e6fcfa214a57938ee206f4929cb7
+20/06/2019 20:35:28 PagSeguro.Session[info]: Begin
+20/06/2019 20:35:28 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 20:35:29 PagSeguro.Session[info]: Session ID: 52d9ea8e7c094a8794fc35a322ec1ba2
+20/06/2019 20:36:17 PagSeguro.Session[info]: Begin
+20/06/2019 20:36:17 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 20:36:18 PagSeguro.Session[info]: Session ID: 11afc06b908c41cba534da1ed6d3adcb
+20/06/2019 20:37:19 PagSeguro.Session[info]: Begin
+20/06/2019 20:37:19 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 20:37:20 PagSeguro.Session[info]: Session ID: c56f4b576ffc4850bf74b29d999052e8
+20/06/2019 20:39:22 PagSeguro.Session[info]: Begin
+20/06/2019 20:39:22 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 20:39:23 PagSeguro.Session[info]: Session ID: 336ff64a89a74997965345a30c44a068
+20/06/2019 20:40:14 PagSeguro.Session[info]: Begin
+20/06/2019 20:40:14 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 20:40:14 PagSeguro.Session[info]: Session ID: 75c377f174c24b479f1f5f948ce0cdc7
+20/06/2019 20:41:08 PagSeguro.Session[info]: Begin
+20/06/2019 20:41:09 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 20:41:09 PagSeguro.Session[info]: Session ID: 995fb761145d4bac86dab6c29d9afd07
+20/06/2019 20:42:05 PagSeguro.Session[info]: Begin
+20/06/2019 20:42:06 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 20:42:06 PagSeguro.Session[info]: Session ID: 590f9ce037d84023a90f7bb36ee3ddf3
+20/06/2019 20:43:39 PagSeguro.Session[info]: Begin
+20/06/2019 20:43:40 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 20:43:40 PagSeguro.Session[info]: Session ID: 8fabe6bff60c40a09329623fc8c740af
+20/06/2019 20:47:35 PagSeguro.Session[info]: Begin
+20/06/2019 20:47:35 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 20:47:36 PagSeguro.Session[info]: Session ID: 9f131e611fd741a5a577a9302fed54c8
+20/06/2019 20:48:31 PagSeguro.Session[info]: Begin
+20/06/2019 20:48:31 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 20:48:32 PagSeguro.Session[info]: Session ID: e251969b0fa3427198d96d42ea601044
+20/06/2019 22:33:23 PagSeguro.Session[info]: Begin
+20/06/2019 22:33:23 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 22:33:24 PagSeguro.Session[info]: Session ID: b46f225002e246a8aa46a991690ccf49
+20/06/2019 22:39:51 PagSeguro.Session[info]: Begin
+20/06/2019 22:39:52 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 22:39:52 PagSeguro.Session[info]: Session ID: 5b8f977fece54326a5282440658f37dc
+20/06/2019 22:45:05 PagSeguro.Session[info]: Begin
+20/06/2019 22:45:05 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 22:45:06 PagSeguro.Session[info]: Session ID: fe35a37485984b06910535551b1632f2
+20/06/2019 22:46:00 PagSeguro.Session[info]: Begin
+20/06/2019 22:46:00 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 22:46:03 PagSeguro.Session[info]: Session ID: e3e5809cb9d14f5f8a2e19b95f2add7e
+20/06/2019 22:46:17 PagSeguro.Session[info]: Begin
+20/06/2019 22:46:17 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 22:46:18 PagSeguro.Session[info]: Session ID: e183d98023c0456fb906a211f5aaecbf
+20/06/2019 22:47:01 PagSeguro.Session[info]: Begin
+20/06/2019 22:47:01 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 22:47:01 PagSeguro.Session[info]: Session ID: 3e110fe2683c4803abee07da63a97dbf
+20/06/2019 22:47:04 PagSeguro.Session[info]: Begin
+20/06/2019 22:47:04 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 22:47:05 PagSeguro.Session[info]: Session ID: e84b41996cc64728b293b76ff58ff9f1
+20/06/2019 22:48:32 PagSeguro.Session[info]: Begin
+20/06/2019 22:48:32 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 22:48:33 PagSeguro.Session[info]: Session ID: d31d8b755b0a4959bb73d41903bccf1f
+20/06/2019 22:48:37 PagSeguro.Session[info]: Begin
+20/06/2019 22:48:37 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 22:48:38 PagSeguro.Session[info]: Session ID: a7d15e3144694ed1bfe38593da131b98
+20/06/2019 22:50:41 PagSeguro.Session[info]: Begin
+20/06/2019 22:50:41 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 22:50:41 PagSeguro.Session[info]: Session ID: 1c73cc585f9b466682ae28c7223596a4
+20/06/2019 22:50:43 PagSeguro.Session[info]: Begin
+20/06/2019 22:50:43 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 22:50:44 PagSeguro.Session[info]: Session ID: fba975044a774d2da34ffac37d414415
+20/06/2019 22:53:11 PagSeguro.Session[info]: Begin
+20/06/2019 22:53:12 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 22:53:12 PagSeguro.Session[info]: Session ID: b3857935ec0e45ddb802314e94a02709
+20/06/2019 23:00:50 PagSeguro.Session[info]: Begin
+20/06/2019 23:00:50 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 23:00:51 PagSeguro.Session[info]: Session ID: 7a29ccce2a3a43669374dde90031b052
+20/06/2019 23:02:36 PagSeguro.Session[info]: Begin
+20/06/2019 23:02:36 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 23:02:36 PagSeguro.Session[info]: Session ID: 4359432d790c44d89a5f97b955b2d110
+20/06/2019 23:08:54 PagSeguro.Session[info]: Begin
+20/06/2019 23:08:54 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 23:08:55 PagSeguro.Session[info]: Session ID: ee536442cf734aa8a0dedc6a50e6c8b5
+20/06/2019 23:09:33 PagSeguro.Session[info]: Begin
+20/06/2019 23:09:33 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 23:09:34 PagSeguro.Session[info]: Session ID: a0a3ac8d826e401593639f70042f691c
+20/06/2019 23:16:52 PagSeguro.Session[info]: Begin
+20/06/2019 23:16:53 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 23:16:53 PagSeguro.Session[info]: Session ID: c439478457254599808257a250053cdd
+20/06/2019 23:18:32 PagSeguro.Session[info]: Begin
+20/06/2019 23:18:32 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 23:18:33 PagSeguro.Session[info]: Session ID: a1ed73347dab4b8e840816199d67157f
+20/06/2019 23:28:12 PagSeguro.Session[info]: Begin
+20/06/2019 23:28:12 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 23:28:12 PagSeguro.Session[info]: Session ID: b3eb7f68d36a46149032083bf6816d43
+20/06/2019 23:28:51 PagSeguro.Session[info]: Begin
+20/06/2019 23:28:51 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 23:28:52 PagSeguro.Session[info]: Session ID: db27966044b54b69954fe47f6f21aa1d
+20/06/2019 23:29:04 PagSeguro.Session[info]: Begin
+20/06/2019 23:29:05 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 23:29:05 PagSeguro.Session[info]: Session ID: f6df363fe559455cb5f0edfdddd0ecb2
+20/06/2019 23:36:41 PagSeguro.Session[info]: Begin
+20/06/2019 23:36:42 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 23:36:42 PagSeguro.Session[info]: Session ID: a857e7f28f814c2a87c73f23e4d34f32
+20/06/2019 23:37:29 PagSeguro.Session[info]: Begin
+20/06/2019 23:37:29 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 23:37:30 PagSeguro.Session[info]: Session ID: 48eb4c08c75e4993b824c29d3ae180ed
+20/06/2019 23:38:37 PagSeguro.Session[info]: Begin
+20/06/2019 23:38:37 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 23:38:38 PagSeguro.Session[info]: Session ID: 6313d9b030f541ecb3d171a7d37b8b3a
+20/06/2019 23:38:59 PagSeguro.Session[info]: Begin
+20/06/2019 23:38:59 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 23:39:00 PagSeguro.Session[info]: Session ID: d22f411da8814e2ea857d7fe504c23ba
+20/06/2019 23:41:21 PagSeguro.Session[info]: Begin
+20/06/2019 23:41:21 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 23:41:22 PagSeguro.Session[info]: Session ID: 6c5f423afc144fa088e49f6e5cb7a465
+20/06/2019 23:42:21 PagSeguro.Session[info]: Begin
+20/06/2019 23:42:21 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 23:42:22 PagSeguro.Session[info]: Session ID: c1517b30e86643bdafd9affa9b4299b9
+20/06/2019 23:42:27 PagSeguro.Session[info]: Begin
+20/06/2019 23:42:28 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 23:42:28 PagSeguro.Session[info]: Session ID: a4831607467345d286f56140ec34d4b4
+20/06/2019 23:44:51 PagSeguro.Session[info]: Begin
+20/06/2019 23:44:51 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 23:44:52 PagSeguro.Session[info]: Session ID: 54ab9e1d84cb4409ba1ca724a0a1d772
+20/06/2019 23:46:25 PagSeguro.Session[info]: Begin
+20/06/2019 23:46:25 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 23:46:26 PagSeguro.Session[info]: Session ID: 2e4fa231363f4aef806a0572d0dc6cb3
+20/06/2019 23:54:30 PagSeguro.Session[info]: Begin
+20/06/2019 23:54:30 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 23:54:30 PagSeguro.Session[info]: Session ID: d4074109b4be4b41b811a2196242042f
+20/06/2019 23:54:48 PagSeguro.Session[info]: Begin
+20/06/2019 23:54:48 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 23:54:49 PagSeguro.Session[info]: Session ID: a4ed51defe734d75a292095748fbf4cd
+20/06/2019 23:55:52 PagSeguro.Session[info]: Begin
+20/06/2019 23:55:52 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 23:55:53 PagSeguro.Session[info]: Session ID: dc39ae7c3628402c9ce8183d06c34e9a
+20/06/2019 23:56:02 PagSeguro.Session[info]: Begin
+20/06/2019 23:56:02 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 23:56:03 PagSeguro.Session[info]: Session ID: 720f8a0d4ffa45caa37fb9e9e2247eb3
+20/06/2019 23:57:12 PagSeguro.Session[info]: Begin
+20/06/2019 23:57:12 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 23:57:13 PagSeguro.Session[info]: Session ID: 1ddd191bf29a470497d569b57e7fb24d
+20/06/2019 23:57:44 PagSeguro.Session[info]: Begin
+20/06/2019 23:57:44 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 23:57:45 PagSeguro.Session[info]: Session ID: f8d9b1c50ea242d383b562b56d5df20e
+20/06/2019 23:58:17 PagSeguro.Session[info]: Begin
+20/06/2019 23:58:17 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 23:58:18 PagSeguro.Session[info]: Session ID: 2c2f2aee164340fabed2ac35bcae71de
+20/06/2019 23:59:31 PagSeguro.Session[info]: Begin
+20/06/2019 23:59:31 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+20/06/2019 23:59:32 PagSeguro.Session[info]: Session ID: a4d538e8d2d44fe3b9a4bcea70d1df92
+21/06/2019 00:00:01 PagSeguro.Session[info]: Begin
+21/06/2019 00:00:01 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 00:00:02 PagSeguro.Session[info]: Session ID: 1863cdf7529144eeaeb07534ee40b829
+21/06/2019 00:00:39 PagSeguro.Session[info]: Begin
+21/06/2019 00:00:39 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 00:00:40 PagSeguro.Session[info]: Session ID: ae7d6c0a495b4ad7b2c9a45c5f19d377
+21/06/2019 00:02:29 PagSeguro.Session[info]: Begin
+21/06/2019 00:02:29 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 00:02:30 PagSeguro.Session[info]: Session ID: 9b4344d9bd8e4364a694d3076ab2b8da
+21/06/2019 00:04:42 PagSeguro.Session[info]: Begin
+21/06/2019 00:04:42 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 00:04:43 PagSeguro.Session[info]: Session ID: 6979ecc41dfb4b62af7c78ca82e88723
+21/06/2019 00:08:22 PagSeguro.Session[info]: Begin
+21/06/2019 00:08:23 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 00:08:23 PagSeguro.Session[info]: Session ID: bb55636648de4ca9bfcb44c929186e4a
+21/06/2019 00:08:27 PagSeguro.Session[info]: Begin
+21/06/2019 00:08:27 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 00:08:28 PagSeguro.Session[info]: Session ID: 8c1991b3c9dd4023a15af1f673330935
+21/06/2019 00:11:03 PagSeguro.Session[info]: Begin
+21/06/2019 00:11:04 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 00:11:04 PagSeguro.Session[info]: Session ID: b4d9ba23848746678a5f75dc1dd23e27
+21/06/2019 00:11:16 PagSeguro.Session[info]: Begin
+21/06/2019 00:11:17 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 00:11:17 PagSeguro.Session[info]: Session ID: fba9bb7ac2a24828933df9f85c11a2e1
+21/06/2019 00:14:52 PagSeguro.Session[info]: Begin
+21/06/2019 00:14:52 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 00:14:53 PagSeguro.Session[info]: Session ID: 2169cca7a4214f478a4981a78140076e
+21/06/2019 00:17:08 PagSeguro.Session[info]: Begin
+21/06/2019 00:17:08 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 00:17:08 PagSeguro.Session[info]: Session ID: 7bc3077b2f8d43c4a57c5065dcc4f282
+21/06/2019 20:41:05 PagSeguro.Session[info]: Begin
+21/06/2019 20:41:05 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 20:41:06 PagSeguro.Session[info]: Session ID: ebcb847cc51a480abab1660765ca346c
+21/06/2019 20:43:36 PagSeguro.Session[info]: Begin
+21/06/2019 20:43:36 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 20:43:36 PagSeguro.Session[info]: Session ID: ecf9d2e8074040c3b0745e7b7b17dd81
+21/06/2019 20:44:23 PagSeguro.Session[info]: Begin
+21/06/2019 20:44:23 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 20:44:24 PagSeguro.Session[info]: Session ID: fee1e7c23dfc45b5916b9850f5a13611
+21/06/2019 20:45:27 PagSeguro.Session[info]: Begin
+21/06/2019 20:45:27 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 20:45:28 PagSeguro.Session[info]: Session ID: 9ead40f4f9ec410286d4e94218d379e8
+21/06/2019 20:47:01 PagSeguro.Session[info]: Begin
+21/06/2019 20:47:02 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 20:47:03 PagSeguro.Session[info]: Session ID: 184f3ae952844ef8a001802cf7b57eba
+21/06/2019 20:48:04 PagSeguro.Session[info]: Begin
+21/06/2019 20:48:04 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 20:48:05 PagSeguro.Session[info]: Session ID: a333927a998f44ebb4947c91e2aa0e88
+21/06/2019 20:48:21 PagSeguro.Session[info]: Begin
+21/06/2019 20:48:21 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 20:48:21 PagSeguro.Session[info]: Session ID: 5881114c5d464d399895705b99e29e3d
+21/06/2019 20:48:35 PagSeguro.Session[info]: Begin
+21/06/2019 20:48:35 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 20:48:36 PagSeguro.Session[info]: Session ID: 84a9e14d73da481591081fbd95f52bb5
+21/06/2019 20:49:38 PagSeguro.Session[info]: Begin
+21/06/2019 20:49:38 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 20:49:38 PagSeguro.Session[info]: Session ID: f72f2dd6945748639a1adcd0f3f3a17f
+21/06/2019 20:53:57 PagSeguro.Session[info]: Begin
+21/06/2019 20:53:57 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 20:53:57 PagSeguro.Session[info]: Session ID: 44cf158a69214b8ea9de69ebb38f062b
+21/06/2019 20:54:57 PagSeguro.Session[info]: Begin
+21/06/2019 20:54:58 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 20:54:58 PagSeguro.Session[info]: Session ID: d2d999f0a1d24d60b3c31f8bb2948e23
+21/06/2019 20:55:23 PagSeguro.Session[info]: Begin
+21/06/2019 20:55:23 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 20:55:23 PagSeguro.Session[info]: Session ID: 766b86102e524abfb552079c1f85e735
+21/06/2019 20:56:00 PagSeguro.Session[info]: Begin
+21/06/2019 20:56:01 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 20:56:01 PagSeguro.Session[info]: Session ID: 0c39facc787f47a087bbc7c9ab630a6b
+21/06/2019 20:56:10 PagSeguro.Session[info]: Begin
+21/06/2019 20:56:10 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 20:56:11 PagSeguro.Session[info]: Session ID: 1c4df014badd48d19750e545264a3612
+21/06/2019 20:57:49 PagSeguro.Session[info]: Begin
+21/06/2019 20:57:49 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 20:57:50 PagSeguro.Session[info]: Session ID: 22ff6b44ea3d4e199a6baee088c22b2e
+21/06/2019 20:58:19 PagSeguro.Session[info]: Begin
+21/06/2019 20:58:19 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 20:58:20 PagSeguro.Session[info]: Session ID: 61f1a27d5e5b489989fba7a1112c4ee0
+21/06/2019 20:58:41 PagSeguro.Session[info]: Begin
+21/06/2019 20:58:42 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 20:58:42 PagSeguro.Session[info]: Session ID: a2cb01b4f1574133978e36d4baaec2c1
+21/06/2019 20:59:07 PagSeguro.Session[info]: Begin
+21/06/2019 20:59:07 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 20:59:08 PagSeguro.Session[info]: Session ID: 9241760e32af4c1eb5fe80629e4ff15a
+21/06/2019 20:59:20 PagSeguro.Session[info]: Begin
+21/06/2019 20:59:20 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 20:59:20 PagSeguro.Session[info]: Session ID: 3e8786d7f3524881ba419ab2dc6e53eb
+21/06/2019 20:59:40 PagSeguro.Session[info]: Begin
+21/06/2019 20:59:41 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 20:59:41 PagSeguro.Session[info]: Session ID: 3c057409c0374b57afff7598b88e4a3e
+21/06/2019 21:23:37 PagSeguro.Session[info]: Begin
+21/06/2019 21:23:38 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 21:23:38 PagSeguro.Session[info]: Session ID: f9f3e998862c4766864d379ec18740df
+21/06/2019 21:24:13 PagSeguro.Session[info]: Begin
+21/06/2019 21:24:13 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 21:24:14 PagSeguro.Session[info]: Session ID: 88695329624c4c079d22ba68863db9fd
+21/06/2019 21:24:58 PagSeguro.Session[info]: Begin
+21/06/2019 21:24:58 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 21:24:58 PagSeguro.Session[info]: Session ID: 27bb9e311ba74e1d9f94460f59e57216
+21/06/2019 21:25:37 PagSeguro.Session[info]: Begin
+21/06/2019 21:25:38 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 21:25:38 PagSeguro.Session[info]: Session ID: ed59f8bc47c1450c8b0164b7d7bfde1e
+21/06/2019 22:29:23 PagSeguro.Session[info]: Begin
+21/06/2019 22:29:23 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 22:29:24 PagSeguro.Session[info]: Session ID: 5e3f86300f4146dda689d7bb64d8881c
+21/06/2019 22:31:53 PagSeguro.Session[info]: Begin
+21/06/2019 22:31:53 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 22:31:54 PagSeguro.Session[info]: Session ID: 2147cddfadcb49ca9acaab77f9c97956
+21/06/2019 23:22:48 PagSeguro.Session[info]: Begin
+21/06/2019 23:22:48 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 23:22:49 PagSeguro.Session[info]: Session ID: 4f4f5578b8fc464582a9f498723631bd
+21/06/2019 23:23:25 PagSeguro.Session[info]: Begin
+21/06/2019 23:23:25 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 23:23:26 PagSeguro.Session[info]: Session ID: c89977740a714a7da460d1dc311fce3c
+21/06/2019 23:24:01 PagSeguro.Session[info]: Begin
+21/06/2019 23:24:01 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 23:24:02 PagSeguro.Session[info]: Session ID: d373eceb08114236b6e6176f74aee9e2
+21/06/2019 23:25:12 PagSeguro.Session[info]: Begin
+21/06/2019 23:25:13 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 23:25:13 PagSeguro.Session[info]: Session ID: 6cbf11d66a0347f28460b7ada9ae7773
+21/06/2019 23:27:44 PagSeguro.Session[info]: Begin
+21/06/2019 23:27:44 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 23:27:44 PagSeguro.Session[info]: Session ID: 0bef0211aa3e447eb892408242cd0b50
+21/06/2019 23:29:31 PagSeguro.Session[info]: Begin
+21/06/2019 23:29:31 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 23:29:31 PagSeguro.Session[info]: Session ID: e48f526b3cbe4bc98fd69a67eb0af411
+21/06/2019 23:29:33 PagSeguro.Session[info]: Begin
+21/06/2019 23:29:33 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 23:29:34 PagSeguro.Session[info]: Session ID: 4b7dda173f8a495b827e8e4b43feea58
+21/06/2019 23:30:41 PagSeguro.Session[info]: Begin
+21/06/2019 23:30:41 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 23:30:41 PagSeguro.Session[info]: Session ID: 9183ef805c4a4ce49a4c52878ca76c81
+21/06/2019 23:33:18 PagSeguro.Session[info]: Begin
+21/06/2019 23:33:19 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 23:33:19 PagSeguro.Session[info]: Session ID: b7358d07690b4c61bb8b6063b4684ffc
+21/06/2019 23:34:10 PagSeguro.Session[info]: Begin
+21/06/2019 23:34:11 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 23:34:11 PagSeguro.Session[info]: Session ID: ee3722cc573b4799b309512698a5ccea
+21/06/2019 23:37:39 PagSeguro.Session[info]: Begin
+21/06/2019 23:37:39 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 23:37:39 PagSeguro.Session[info]: Session ID: 362b2f850baf4c198132b5a89dd1de78
+21/06/2019 23:38:44 PagSeguro.Session[info]: Begin
+21/06/2019 23:38:45 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 23:38:45 PagSeguro.Session[info]: Session ID: 5239c0fb65be4d98a50f95ae0b888a15
+21/06/2019 23:48:11 PagSeguro.Session[info]: Begin
+21/06/2019 23:48:11 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 23:48:12 PagSeguro.Session[info]: Session ID: 2001b0b9e86f407e8a8c0f0a3e46f64d
+21/06/2019 23:48:21 PagSeguro.Session[info]: Begin
+21/06/2019 23:48:21 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 23:48:22 PagSeguro.Session[info]: Session ID: 2e99d0d70a6e4596b6b67d8671b432d1
+21/06/2019 23:50:17 PagSeguro.Session[info]: Begin
+21/06/2019 23:50:17 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 23:50:17 PagSeguro.Session[info]: Session ID: a44f7d8b01a3472e886c71a7b2b765ff
+21/06/2019 23:55:35 PagSeguro.Session[info]: Begin
+21/06/2019 23:55:35 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 23:55:36 PagSeguro.Session[info]: Session ID: 6621c7ddfde0474cbcc9a43da5c85175
+21/06/2019 23:55:46 PagSeguro.Session[info]: Begin
+21/06/2019 23:55:47 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 23:55:47 PagSeguro.Session[info]: Session ID: 12eb14c05b3c483791a1b4557726d49d
+21/06/2019 23:57:54 PagSeguro.Session[info]: Begin
+21/06/2019 23:57:54 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 23:57:55 PagSeguro.Session[info]: Session ID: 6d61719ebaa149f6a6e4119ce72fdb97
+21/06/2019 23:58:50 PagSeguro.Session[info]: Begin
+21/06/2019 23:58:50 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 23:58:51 PagSeguro.Session[info]: Session ID: 80777ba2ce334795954fc034553cb974
+21/06/2019 23:58:57 PagSeguro.Session[info]: Begin
+21/06/2019 23:58:57 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+21/06/2019 23:58:58 PagSeguro.Session[info]: Session ID: 061bf2d4c7a84aa3977843a069eb5e1c
+22/06/2019 00:26:40 PagSeguro.Session[info]: Begin
+22/06/2019 00:26:40 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+22/06/2019 00:26:41 PagSeguro.Session[info]: Session ID: df2140d949bd41cca4889fa9d45bcb7b
+22/06/2019 00:28:56 PagSeguro.Session[info]: Begin
+22/06/2019 00:28:57 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+22/06/2019 00:28:57 PagSeguro.Session[info]: Session ID: 5087fefa037c4ddfa157af4794e25c31
+22/06/2019 00:31:56 PagSeguro.Session[info]: Begin
+22/06/2019 00:31:56 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+22/06/2019 00:31:56 PagSeguro.Session[info]: Session ID: 8f21b413f191464c82f1d3bc9bfaf50a
+22/06/2019 00:32:32 PagSeguro.Session[info]: Begin
+22/06/2019 00:32:32 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+22/06/2019 00:32:32 PagSeguro.Session[info]: Session ID: 9c3d669470634f16a0d6577b173cca99
+22/06/2019 00:32:47 PagSeguro.DirectPayment.CreditCard[info]: Begin
+22/06/2019 00:32:47 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+22/06/2019 00:32:48 PagSeguro.Checkout[info]: Params: {"reference":"16","notificationURL":"http:\/\/localhost\/loja\/psckttransparente\/notification","billingAddressStreet":"Rua Vit\u00f3ria R\u00e9gia","billingAddressNumber":"127","billingAddressComplement":"","billingAddressCity":"S\u00e3o Pedro da Aldeia","billingAddressState":"RJ","billingAddressDistrict":"Jardim Soledade","billingAddressPostalCode":"28941394","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"Jorge Luiz Valente","creditCardHolderCPF":"13085251766","installmentQuantity":"1","installmentValue":"851.77","itemId1":4,"itemDescription1":"Monitor legal polegads 18","itemQuantity1":1,"itemAmount1":"799.00","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"lassancejorgeluiz@gmail.com","senderName":"Jorge Luiz Valente","senderEmail":"c74848281451521297711@sandbox.pagseguro.com.br","senderAreaCode":"22","senderPhone":"(**) 99291-****","senderCPF":"130.***.***-**","senderIp":"127.0.0.1","senderHash":"111bc403ad4967863615e4cb9f438676997c423c169835d248f391d31f82afa0","shippingCost":"52.77","shippingAddressStreet":"Rua Vit\u00f3ria R\u00e9gia","shippingAddressNumber":"127","shippingAddressComplement":"","shippingAddressCity":"S\u00e3o Pedro da Aldeia","shippingAddressState":"RJ","shippingAddressDistrict":"Jardim Soledade","shippingAddressPostalCode":"28941394","shippingAddressCountry":"BRA","creditCardToken":"5783664a8dfd4dbf98ad8c8b2e02f67e"}
+22/06/2019 00:32:49 PagSeguro.DirectPayment.CreditCard[info]: Credit Card Payment Code: F2BE6B4B-CC73-4EAE-B73A-D40FB2FFA91A
+22/06/2019 00:32:51 PagSeguro.Session[info]: Begin
+22/06/2019 00:32:51 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+22/06/2019 00:32:51 PagSeguro.Session[info]: Session ID: 091fc75362b244ad94b5cd733b067a55
+22/06/2019 00:33:12 PagSeguro.DirectPayment.CreditCard[info]: Begin
+22/06/2019 00:33:12 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+22/06/2019 00:33:12 PagSeguro.Checkout[info]: Params: {"reference":"17","notificationURL":"http:\/\/localhost\/loja\/psckttransparente\/notification","billingAddressStreet":"Rua Vit\u00f3ria R\u00e9gia","billingAddressNumber":"127","billingAddressComplement":"","billingAddressCity":"S\u00e3o Pedro da Aldeia","billingAddressState":"RJ","billingAddressDistrict":"Jardim Soledade","billingAddressPostalCode":"28941394","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"Jorge Luiz Valente","creditCardHolderCPF":"13085251766","installmentQuantity":"1","installmentValue":"851.77","itemId1":4,"itemDescription1":"Monitor legal polegads 18","itemQuantity1":1,"itemAmount1":"799.00","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"lassancejorgeluiz@gmail.com","senderName":"Jorge Luiz Valente","senderEmail":"c74848281451521297711@sandbox.pagseguro.com.br","senderAreaCode":"22","senderPhone":"(**) 99291-****","senderCPF":"130.***.***-**","senderIp":"127.0.0.1","senderHash":"111bc403ad4967863615e4cb9f438676997c423c169835d248f391d31f82afa0","shippingCost":"52.77","shippingAddressStreet":"Rua Vit\u00f3ria R\u00e9gia","shippingAddressNumber":"127","shippingAddressComplement":"","shippingAddressCity":"S\u00e3o Pedro da Aldeia","shippingAddressState":"RJ","shippingAddressDistrict":"Jardim Soledade","shippingAddressPostalCode":"28941394","shippingAddressCountry":"BRA","creditCardToken":"d9b10acb1de449ee9d9ff5f854845fba"}
+22/06/2019 00:33:14 PagSeguro.DirectPayment.CreditCard[info]: Credit Card Payment Code: 3DE50900-BBA6-4E14-81B7-EC06F9819A09
+22/06/2019 00:33:15 PagSeguro.DirectPayment.CreditCard[info]: Begin
+22/06/2019 00:33:15 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+22/06/2019 00:33:15 PagSeguro.Checkout[info]: Params: {"reference":"18","notificationURL":"http:\/\/localhost\/loja\/psckttransparente\/notification","billingAddressStreet":"Rua Vit\u00f3ria R\u00e9gia","billingAddressNumber":"127","billingAddressComplement":"","billingAddressCity":"S\u00e3o Pedro da Aldeia","billingAddressState":"RJ","billingAddressDistrict":"Jardim Soledade","billingAddressPostalCode":"28941394","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"Jorge Luiz Valente","creditCardHolderCPF":"13085251766","installmentQuantity":"1","installmentValue":"851.77","itemId1":4,"itemDescription1":"Monitor legal polegads 18","itemQuantity1":1,"itemAmount1":"799.00","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"lassancejorgeluiz@gmail.com","senderName":"Jorge Luiz Valente","senderEmail":"c74848281451521297711@sandbox.pagseguro.com.br","senderAreaCode":"22","senderPhone":"(**) 99291-****","senderCPF":"130.***.***-**","senderIp":"127.0.0.1","senderHash":"111bc403ad4967863615e4cb9f438676997c423c169835d248f391d31f82afa0","shippingCost":"52.77","shippingAddressStreet":"Rua Vit\u00f3ria R\u00e9gia","shippingAddressNumber":"127","shippingAddressComplement":"","shippingAddressCity":"S\u00e3o Pedro da Aldeia","shippingAddressState":"RJ","shippingAddressDistrict":"Jardim Soledade","shippingAddressPostalCode":"28941394","shippingAddressCountry":"BRA","creditCardToken":"3975cd756e944a968caa93e51bb43d60"}
+22/06/2019 00:33:17 PagSeguro.DirectPayment.CreditCard[info]: Credit Card Payment Code: AB97A01A-A36D-422B-A48C-B2A40A05272D
+22/06/2019 00:33:17 PagSeguro.DirectPayment.CreditCard[info]: Begin
+22/06/2019 00:33:18 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+22/06/2019 00:33:18 PagSeguro.Checkout[info]: Params: {"reference":"19","notificationURL":"http:\/\/localhost\/loja\/psckttransparente\/notification","billingAddressStreet":"Rua Vit\u00f3ria R\u00e9gia","billingAddressNumber":"127","billingAddressComplement":"","billingAddressCity":"S\u00e3o Pedro da Aldeia","billingAddressState":"RJ","billingAddressDistrict":"Jardim Soledade","billingAddressPostalCode":"28941394","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"Jorge Luiz Valente","creditCardHolderCPF":"13085251766","installmentQuantity":"1","installmentValue":"851.77","itemId1":4,"itemDescription1":"Monitor legal polegads 18","itemQuantity1":1,"itemAmount1":"799.00","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"lassancejorgeluiz@gmail.com","senderName":"Jorge Luiz Valente","senderEmail":"c74848281451521297711@sandbox.pagseguro.com.br","senderAreaCode":"22","senderPhone":"(**) 99291-****","senderCPF":"130.***.***-**","senderIp":"127.0.0.1","senderHash":"111bc403ad4967863615e4cb9f438676997c423c169835d248f391d31f82afa0","shippingCost":"52.77","shippingAddressStreet":"Rua Vit\u00f3ria R\u00e9gia","shippingAddressNumber":"127","shippingAddressComplement":"","shippingAddressCity":"S\u00e3o Pedro da Aldeia","shippingAddressState":"RJ","shippingAddressDistrict":"Jardim Soledade","shippingAddressPostalCode":"28941394","shippingAddressCountry":"BRA","creditCardToken":"e5d717c09a2d4725b1d1c17d21d647a5"}
+22/06/2019 00:33:19 PagSeguro.DirectPayment.CreditCard[info]: Credit Card Payment Code: 02BD4644-63D7-4B5C-8726-C08EA6ADC720
+22/06/2019 00:33:20 PagSeguro.DirectPayment.CreditCard[info]: Begin
+22/06/2019 00:33:21 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+22/06/2019 00:33:21 PagSeguro.Checkout[info]: Params: {"reference":"20","notificationURL":"http:\/\/localhost\/loja\/psckttransparente\/notification","billingAddressStreet":"Rua Vit\u00f3ria R\u00e9gia","billingAddressNumber":"127","billingAddressComplement":"","billingAddressCity":"S\u00e3o Pedro da Aldeia","billingAddressState":"RJ","billingAddressDistrict":"Jardim Soledade","billingAddressPostalCode":"28941394","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"Jorge Luiz Valente","creditCardHolderCPF":"13085251766","installmentQuantity":"1","installmentValue":"851.77","itemId1":4,"itemDescription1":"Monitor legal polegads 18","itemQuantity1":1,"itemAmount1":"799.00","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"lassancejorgeluiz@gmail.com","senderName":"Jorge Luiz Valente","senderEmail":"c74848281451521297711@sandbox.pagseguro.com.br","senderAreaCode":"22","senderPhone":"(**) 99291-****","senderCPF":"130.***.***-**","senderIp":"127.0.0.1","senderHash":"111bc403ad4967863615e4cb9f438676997c423c169835d248f391d31f82afa0","shippingCost":"52.77","shippingAddressStreet":"Rua Vit\u00f3ria R\u00e9gia","shippingAddressNumber":"127","shippingAddressComplement":"","shippingAddressCity":"S\u00e3o Pedro da Aldeia","shippingAddressState":"RJ","shippingAddressDistrict":"Jardim Soledade","shippingAddressPostalCode":"28941394","shippingAddressCountry":"BRA","creditCardToken":"de9b06e3e27845fa8d903a6f7b226553"}
+22/06/2019 00:33:23 PagSeguro.DirectPayment.CreditCard[info]: Credit Card Payment Code: FEB95BB7-EB69-4ED7-97F1-65A95DBA634D
+22/06/2019 00:33:50 PagSeguro.Session[info]: Begin
+22/06/2019 00:33:50 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+22/06/2019 00:33:50 PagSeguro.Session[info]: Session ID: df1fb112494049baaead231a4d93f818
+23/06/2019 20:48:27 PagSeguro.Session[info]: Begin
+23/06/2019 20:48:29 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+23/06/2019 20:48:30 PagSeguro.Session[info]: Session ID: 0f35ad17224c4a2c9827f695a6909a50
+23/06/2019 20:50:05 PagSeguro.DirectPayment.CreditCard[info]: Begin
+23/06/2019 20:50:05 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+23/06/2019 20:50:06 PagSeguro.Checkout[info]: Params: {"reference":"21","notificationURL":"http:\/\/localhost\/loja\/psckttransparente\/notification","billingAddressStreet":"Rua Vit\u00f3ria R\u00e9gia","billingAddressNumber":"127","billingAddressComplement":"Casa C","billingAddressCity":"S\u00e3o Pedro da Aldeia","billingAddressState":"RJ","billingAddressDistrict":"Jardim Soledade","billingAddressPostalCode":"28941394","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"Jorge Luiz Valente","creditCardHolderCPF":"13085251766","installmentQuantity":"1","installmentValue":"427.79","itemId1":3,"itemDescription1":"Monitor 18 polegadas","itemQuantity1":1,"itemAmount1":"399.00","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"lassancejorgeluiz@gmail.com","senderName":"Jorge Luiz Valente","senderEmail":"c74848281451521297711@sandbox.pagseguro.com.br","senderAreaCode":"22","senderPhone":"(**) 99291-****","senderCPF":"130.***.***-**","senderIp":"127.0.0.1","senderHash":"c6de106dbb1fc017c700323c363da59345b3510b96125260c210f12f7f01bb1d","shippingCost":"28.79","shippingAddressStreet":"Rua Vit\u00f3ria R\u00e9gia","shippingAddressNumber":"127","shippingAddressComplement":"Casa C","shippingAddressCity":"S\u00e3o Pedro da Aldeia","shippingAddressState":"RJ","shippingAddressDistrict":"Jardim Soledade","shippingAddressPostalCode":"28941394","shippingAddressCountry":"BRA","creditCardToken":"f4912e536f414552b134d2686a7edeea"}
+23/06/2019 20:50:08 PagSeguro.DirectPayment.CreditCard[info]: Credit Card Payment Code: A7148568-AAD1-4127-8297-F71AC3B2B23A
+23/06/2019 20:50:09 PagSeguro.Session[info]: Begin
+23/06/2019 20:50:09 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+23/06/2019 20:50:10 PagSeguro.Session[info]: Session ID: 986bf7f4014d40c1b769dc2c5ecd991d
+23/06/2019 20:52:44 PagSeguro.DirectPayment.CreditCard[info]: Begin
+23/06/2019 20:52:44 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+23/06/2019 20:52:44 PagSeguro.Checkout[info]: Params: {"reference":"22","notificationURL":"http:\/\/localhost\/loja\/psckttransparente\/notification","billingAddressStreet":"Rua Vit\u00f3ria R\u00e9gia","billingAddressNumber":"127","billingAddressComplement":"Casa C","billingAddressCity":"S\u00e3o Pedro da Aldeia","billingAddressState":"RJ","billingAddressDistrict":"Jardim Soledade","billingAddressPostalCode":"28941394","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"Jorge Luiz Valente","creditCardHolderCPF":"13085251766","installmentQuantity":"5","installmentValue":"93.39","itemId1":3,"itemDescription1":"Monitor 18 polegadas","itemQuantity1":1,"itemAmount1":"399.00","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"lassancejorgeluiz@gmail.com","senderName":"Jorge Luiz Valente","senderEmail":"c74848281451521297711@sandbox.pagseguro.com.br","senderAreaCode":"22","senderPhone":"(**) 99291-****","senderCPF":"130.***.***-**","senderIp":"127.0.0.1","senderHash":"564bf97bcfecbbaec3a6f0873bfd45ab93bdbdc45cf10b33f7ed82478514c598","shippingCost":"28.79","shippingAddressStreet":"Rua Vit\u00f3ria R\u00e9gia","shippingAddressNumber":"127","shippingAddressComplement":"Casa C","shippingAddressCity":"S\u00e3o Pedro da Aldeia","shippingAddressState":"RJ","shippingAddressDistrict":"Jardim Soledade","shippingAddressPostalCode":"28941394","shippingAddressCountry":"BRA","creditCardToken":"2713fc3f4a844b6ba380c4f644317ef1"}
+23/06/2019 20:52:46 PagSeguro.DirectPayment.CreditCard[info]: Credit Card Payment Code: 5DF29F3E-02C9-4AC9-AF90-C059EA07B3DC
+23/06/2019 20:52:47 PagSeguro.Session[info]: Begin
+23/06/2019 20:52:47 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+23/06/2019 20:52:47 PagSeguro.Session[info]: Session ID: 5b0f838bce504a2f9274bc369b3045cb
+23/06/2019 20:57:17 PagSeguro.Session[info]: Begin
+23/06/2019 20:57:17 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+23/06/2019 20:57:18 PagSeguro.Session[info]: Session ID: 09bfe999718f49598e440d7ad8fdec3c
+23/06/2019 21:24:57 PagSeguro.Session[info]: Begin
+23/06/2019 21:24:57 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+23/06/2019 21:24:58 PagSeguro.Session[info]: Session ID: 3ffff35f21bf440e9f4826172c8b1d8c
+23/06/2019 21:26:31 PagSeguro.Session[info]: Begin
+23/06/2019 21:26:31 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+23/06/2019 21:26:32 PagSeguro.Session[info]: Session ID: 61a9fbc12b21489aaeb3065ec40d1589
+23/06/2019 21:29:19 PagSeguro.Session[info]: Begin
+23/06/2019 21:29:20 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+23/06/2019 21:29:20 PagSeguro.Session[info]: Session ID: 08df0ff677d34869865c29d74b37da96
+23/06/2019 21:30:33 PagSeguro.Session[info]: Begin
+23/06/2019 21:30:33 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+23/06/2019 21:30:34 PagSeguro.Session[info]: Session ID: 4d2b7925b539455989e2fedf30bad3de
+23/06/2019 21:32:07 PagSeguro.Session[info]: Begin
+23/06/2019 21:32:07 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+23/06/2019 21:32:07 PagSeguro.Session[info]: Session ID: d7113a1ea5be4612a1e4b854b1eaffd9
+23/06/2019 21:39:09 PagSeguro.Session[info]: Begin
+23/06/2019 21:39:09 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+23/06/2019 21:39:10 PagSeguro.Session[info]: Session ID: df3b0061899e4c2e8039f600bea9e26d
+24/06/2019 18:38:52 PagSeguro.Session[info]: Begin
+24/06/2019 18:38:53 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+24/06/2019 18:38:54 PagSeguro.Session[info]: Session ID: 25cd9ccfb9fe4cd8b51bda384ce5ec43
+24/06/2019 18:39:27 PagSeguro.Session[info]: Begin
+24/06/2019 18:39:28 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+24/06/2019 18:39:28 PagSeguro.Session[info]: Session ID: 062d97a1f468418bab0d0345e632133a
+24/06/2019 18:39:51 PagSeguro.Session[info]: Begin
+24/06/2019 18:39:51 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+24/06/2019 18:39:52 PagSeguro.Session[info]: Session ID: 1d41509cb101452daac050cc95339e6c
+24/06/2019 18:40:20 PagSeguro.DirectPayment.CreditCard[info]: Begin
+24/06/2019 18:40:20 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+24/06/2019 18:40:21 PagSeguro.Checkout[info]: Params: {"reference":"23","notificationURL":"http:\/\/localhost\/loja\/psckttransparente\/notification","billingAddressStreet":"Rua Vit\u00f3ria R\u00e9gia","billingAddressNumber":"127","billingAddressComplement":"Casa C","billingAddressCity":"S\u00e3o Pedro da Aldeia","billingAddressState":"RJ","billingAddressDistrict":"Jardim Soledade","billingAddressPostalCode":"28941394","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"Jorge Luiz Valente","creditCardHolderCPF":"13085251766","installmentQuantity":"12","installmentValue":"93.53","itemId1":4,"itemDescription1":"Monitor legal polegads 18","itemQuantity1":1,"itemAmount1":"799.00","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"lassancejorgeluiz@gmail.com","senderName":"Jorge Luiz Valente","senderEmail":"c74848281451521297711@sandbox.pagseguro.com.br","senderAreaCode":"22","senderPhone":"(**) 99291-****","senderCPF":"130.***.***-**","senderIp":"127.0.0.1","senderHash":"e2e7e937cd83fdd29c7ad42fc6d5f55cb59e7eed87c85260c6caf6bab544fc61","shippingCost":"132.53","shippingAddressStreet":"Rua Vit\u00f3ria R\u00e9gia","shippingAddressNumber":"127","shippingAddressComplement":"Casa C","shippingAddressCity":"S\u00e3o Pedro da Aldeia","shippingAddressState":"RJ","shippingAddressDistrict":"Jardim Soledade","shippingAddressPostalCode":"28941394","shippingAddressCountry":"BRA","creditCardToken":"c7bf6683555e4b198645a3712e4cfe01"}
+24/06/2019 18:40:23 PagSeguro.DirectPayment.CreditCard[info]: Credit Card Payment Code: 6F27F24B-5D1A-4B10-ADB7-17928E6B70BA
+27/06/2019 21:46:48 PagSeguro.Session[info]: Begin
+27/06/2019 21:46:49 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+27/06/2019 21:46:51 PagSeguro.Session[info]: Session ID: 9315c8fdd3e949f099e64b5a20855324
+28/06/2019 01:07:19 PagSeguro.Session[info]: Begin
+28/06/2019 01:07:20 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=lassancejorgeluiz%40gmail.com&token=6FCD8F3F124E4F6E925B78D67A05152B
+28/06/2019 01:07:21 PagSeguro.Session[info]: Session ID: dd3b7b5b6e8a4a9fa0a75d8274478652

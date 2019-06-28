@@ -98,7 +98,7 @@ class Cart extends Model{
 		$data = http_build_query($data);
 
 		$ch = curl_init($url.'?'.$data);
-		curl_setopt($ch, CURLOPT_RETURNTRASFER, true);
+		curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 		$r = curl_exec($ch);
 		$r = simplexml_load_string($r);
 

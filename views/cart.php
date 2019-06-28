@@ -26,10 +26,40 @@
 		<td colspan="3" align="right">Sub-total:</td>
 		<td><strong>R$ <?php echo number_format($subtotal, 2, ',', '.'); ?><strong></td>
 	</tr>
+	<tr>
+		<td colspan="3" align="right">Frete:</td>
+		<td>
+			<?php if(isset($shipping['price'])) :?>
+				<strong>R$ <?php echo $shipping['price'];?></strong> (<?php echo $shipping['date'] ?> dia<?php echo ($shipping['date'] == '1')?'':'s'; ?>)
+			<?php else: ?>
+				Qual seu CEP <br>
+				<form method="POST">
+					<input type="number" name="cep"> <br>
+					<input type="submit" value="Calcular">
+				</form>
+		<?php endif; ?>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3" align="right">Total:</td>
+		<td><strong>R$ <?php 
+		if(isset($shipping['price'])){
+		$frete = floatval(str_replace(',', '.', $shipping['price']));
+		} else{
+			$frete = 0;
+		}
+		$total = $subtotal + $frete;
+		echo number_format($total, 2, ',', '.'); ?><strong></td>
+	</tr>
 </table>
 <hr>
-Qual seu CEP <br>
-<form method="POST">
-	<input type="number" name="cep"> <br>
-	<input type="submit" value="Calcular">
+<?php if($frete > 0): ?>
+<form method="POST" action="<?php echo BASE_URL ?>cart/payment_redirect" style="float:right">
+	<select name="payment_type">
+		<option value="checkout_transparente">Pagseguro Checkoutransparente</option>
+		<option value="mp">Mercado Pago</option>
+		<option value="paypal">PayPal</option>
+	</select>
+	<input type="submit" value="Finalizar compra" class="button">
 </form>
+<?php endif; ?>
